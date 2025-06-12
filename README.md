@@ -10,8 +10,8 @@ A missão é simples: montar uma mini-app que consuma **uma das APIs abaixo** e 
 
 | API | Quando usar | Endpoints legais |
 |-----|-------------|------------------|
-| **Fake Store API** | Quer algo “e-commerce style” (produtos, categorias, usuários…). | `/products`, `/categories`, `/users`, `/carts` |
-| **DEV.to (Forem) API** | Prefere um mini-blog/CMS (posts, rascunhos, tags, comentários). | `/articles`, `/drafts`, `/tags`, `/comments` |
+| **Fake Store API** | Quer algo “e-commerce style” (produtos, categorias, usuários…). | `/products`, `/categories`, `/users`, `/carts` (https://api.escuelajs.co/docs) |
+| **DEV.to (Forem) API** | Prefere um mini-blog/CMS (posts, rascunhos, tags, comentários). | `/articles`, `/drafts`, `/tags`, `/comments` (https://developers.forem.com/api) |
 
 > **DEV.to** exige uma API Key (crie em Settings).  
 > Headers obrigatórios:  
